@@ -24,7 +24,8 @@ CPU 2 Hand: King of Clubs, Queen of Clubs
 
 Flop: 2 of Hearts, 5 of Clubs, Ace of Clubs
 Turn: King of Hearts
-River: Jack of Hearts```
+River: Jack of Hearts
+```
 
 ### Dealing Cards:
 
